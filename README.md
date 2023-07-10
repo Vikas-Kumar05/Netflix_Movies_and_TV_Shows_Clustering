@@ -10,7 +10,7 @@ Introduction Netflix, the world’s largest on-demand internet streaming media a
 This dataset consists of TV shows and movies available on Netflix as of 2019. The dataset is collected from Flixable which is a third-party Netflix search engine.In 2018, they released an interesting report which shows that the number of TV shows on Netflix has nearly tripled since 2010. The streaming service’s number of movies has decreased by more than 2,000 titles since 2010, while its number of TV shows has nearly tripled. It will be interesting to explore what all other insights can be obtained from the same dataset.
 Integrating this information with additional external datasets such as IMDB ratings and rotten tomatoes can yield a plethora of fascinating results.
 
-# Data Summary
+# Project Summary
 
 ● In this project, we tackled a text clustering problem where we had to classify/group Netflix episodes and movies into specific clusters so that the shows and Clusters within a cluster are similar to each other and the shows in different clusters are dissimilar to each other.
 
